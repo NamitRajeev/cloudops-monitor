@@ -14,7 +14,7 @@ def home():
         "application": "CloudOps Monitor",
         "version": APP_VERSION,
         "status": "Running",
-        "message": "Welcome to our DevOps project!"
+        "message": "Welcome to my DevOps project!"
     })
 
 
